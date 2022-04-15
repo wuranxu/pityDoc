@@ -1,11 +1,15 @@
 ---
 hero:
-  title: Pity使用文档
-  image: https://gitee.com/woodywrx/picture/raw/master/2022-2-25/1645720395185-%E7%AB%8B%E5%86%AC.png
+  title: Pity接口测试平台
+  image: http://oss.pity.fun/picture/2022-2-25/1645720395185-%E7%AB%8B%E5%86%AC.png
   desc: pity是一款完全开源的接口自动化测试平台，支持http/grpc/dubbo类型的接口测试，有着丰富的操作说明和从0到1的开发手册，能为中小型公司提供便捷的服务。
   actions:
+    - text: 帮助文档
+      link: /使用文档
     - text: 快速开始
       link: /快速开始
+    - text: 在线体验
+      link: http://121.5.2.74/
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: 上手容易
@@ -16,13 +20,13 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: 匠心设计
     desc: 一个的带着遗憾的人，亲手打造的一个不留遗憾的项目。
-  - icon: https://gitee.com/woodywrx/picture/raw/master/2022-2-25/1645718541208-%E6%98%9F%E7%90%8306.png
+  - icon: http://oss.pity.fun/picture/2022-2-25/1645718541208-%E6%98%9F%E7%90%8306.png
     title: 技术前沿
     desc: 虽然采用单体架构设计，但有前沿技术FastApi的加持，速度绝对不慢。
-  - icon: https://gitee.com/woodywrx/picture/raw/master/2022-2-25/1645718704353-GULULU-%E8%9C%9C%E6%A1%83%E7%BD%90.png
+  - icon: http://oss.pity.fun/picture/2022-2-25/1645718704353-GULULU-%E8%9C%9C%E6%A1%83%E7%BD%90.png
     title: 功能完善
     desc: 工具基于作者公司之前的接口测试平台演变而来，有多年的沉淀，功能齐全，可以涵盖大部分需求。
-  - icon: https://gitee.com/woodywrx/picture/raw/master/2022-2-25/1645718885055-%E5%B1%B1%E5%B3%B0%E6%98%9F%E7%A9%BA.png
+  - icon: http://oss.pity.fun/picture/2022-2-25/1645718885055-%E5%B1%B1%E5%B3%B0%E6%98%9F%E7%A9%BA.png
     title: 不断完善
     desc: 可能工具的使用过程中，会有源源不断的bug/体验问题出现。希望大家能踊跃提出自己的建议，帮助我们不断完善。
     
@@ -48,3 +52,36 @@ footer: Open-source MIT Licensed | Copyright © 2022<br />Powered by [woody](htt
   我在好友`我去热饭`的鼓励下，重新启动了这个项目并坚持了下来。这个项目名字叫pity，我想带着我的遗憾，做一个`不留遗憾`的项目。
 
   **在此感谢我的好友`我去热饭`的鼓励，感谢历任领导们的栽培，特别是东哥。还感谢腾讯云的吕女士，你是我的一面面试官，辜负你对我的欣赏了，挺遗憾的。最后，感谢耐心读到这里的读者！~**
+
+#### 测试计划
+
+![](http://oss.pity.fun/picture/2022-2-25/1645803999678-image.png)
+
+#### 测试报告
+
+![](http://oss.pity.fun/picture/2022-2-25/1645804075353-image.png)
+
+#### 测试用例
+
+![](http://oss.pity.fun/picture/2022-2-25/1645804276470-image.png)
+
+
+#### SQL客户端
+
+![](http://oss.pity.fun/picture/2022-2-25/1645804151559-image.png)
+
+#### 项目管理
+
+![](http://oss.pity.fun/picture/2022-2-26/1645854332681-image.png)
+
+## ✉ 使用文档
+
+[使用文档(github)](https://wuranxu.github.io/pityDoc/)
+
+[备用地址(gitee)](https://woodywrx.gitee.io/pityDoc/)
+
+## 😊 开发参考文章
+
+[开发文档-公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMjUwOTk5Mw==&action=getalbum&album_id=1983195471686762500&scene=173&from_msgid=2247484522&from_itemidx=8&count=3&nolastread=1#wechat_redirect)
+
+[开发文档-掘金](https://juejin.cn/column/6977933898952998926)
